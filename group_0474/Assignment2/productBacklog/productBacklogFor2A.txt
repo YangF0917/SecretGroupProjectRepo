@@ -1,0 +1,8 @@
+User stories:	Time estimate:
+As a user, I should be able to exit the program		Time estimate: 1 Hour
+As a developer, I want to interact with my files in an effcient manner so that I can do my work fatser		Time estimate: ?
+As a hobbyist, I want to use my computer without a GUI so that I can feel what it was like to use computers in the 1970		Time estimate: ?
+As a developer, I want to make a new directory within another directory		Time estimate: 3 hours
+As a developer, I want to be able to see the contents of my current directory	Time estimate: 4 hours
+As a developer, I want to see which directory I'm currently in	Time estimate: 4 hours
+As a user, I should be able to search for directories by their path  Time estimate: 5 hours
